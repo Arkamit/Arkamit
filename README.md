@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arkamit
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NextJS along with React and TypeScript
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 🌱 I work on NextJS along with React and TypeScript
 - 📫 How to reach me arkamitdutta@gmail.com
 
 <!---
